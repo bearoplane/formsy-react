@@ -39,8 +39,5 @@
     "sinon": "^1.17.1",
     "webpack": "^1.7.3",
     "webpack-dev-server": "^1.7.0"
-  },
-  "peerDependencies": {
-    "react": "^0.14.0"
   }
 }
